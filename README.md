@@ -29,8 +29,8 @@ Since our program is made to cater to retail stores, it would be great to implem
 
 *How to Install the Project*
   1) For object detection with YOLO v4 
-    (a)Clone darknet repo
-Change makefile to enable GPU, LIBSO and OPENCV
+   - Clone darknet repo
+   - Change makefile to enable GPU, LIBSO and OPENCV
 Build darknet to use its dependencies
 Download pre-trained weight
 Define helper functions, to display video, upload and download video
