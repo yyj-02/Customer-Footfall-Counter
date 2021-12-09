@@ -66,3 +66,6 @@ Since our program is made to cater to retail stores, it would be great to implem
 [YOLOv4 in the CLOUD: Install and Run Object Detector (FREE GPU)
 ](https://www.youtube.com/watch?v=mKAEGSxwOAY)
 [theAIGuysCode - yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort)
+
+##### Contributer
+Yeoh Yong Jie, Goh Choi Yin, Lim Yi Jing
