@@ -12,7 +12,7 @@ This project was created for the [ICMS Embark](https://icms-embark.webflow.io/) 
 
 ## Team Members
 
-- [Goh Choi Yin]()
+- [Goh Choi Yin](https://github.com/angelina-create)
 - [Lim Yi Jing](https://github.com/yijingLim/)
 - [Yeoh Yong Jie](https://github.com/yyj-02)
 
