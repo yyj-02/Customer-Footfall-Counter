@@ -8,7 +8,7 @@
 
 ## Project Description
 
-This project was created for the [ICMS Embark](https://icms-embark.webflow.io/) event which is sponsored by the [Sunway Group](https://www.sunway.com.my/). This machine learning model can analyse a top down CCTV footage to identify and track moving humans inside the footage. The algorithm will then count the number of people entering and leaving the place by counting the number of people crossing the line.
+This project was created for the [ICMS Embark](https://icms-embark.webflow.io/) event which is sponsored by the [Sunway Group](https://www.sunway.com.my/). This machine learning model can analyse a top down CCTV footage to identify and track moving humans inside the footage. The algorithm will then count the number of people entering and leaving the premise by counting the number of people crossing the boundary lines.
 
 ## Team Members
 
